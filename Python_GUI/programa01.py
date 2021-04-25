@@ -12,6 +12,6 @@ wind.close()    #Por fim close() para fechar o programa depois de rodar todo o c
 
 '''
     Documentação = 
-    https://pypi.org/project/PySimpleGUI/
-    https://pysimplegui.readthedocs.io/en/latest/
+    https://pypi.org/project/PySimpleGUI/ -> Focado no básico
+    https://pysimplegui.readthedocs.io/en/latest/ -> Documentário de verdade
 '''
