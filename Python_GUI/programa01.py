@@ -1,5 +1,6 @@
 import PySimpleGUI as gui #Importando biblioteca externa, e armazenando como gui
 
+#O formato da biblioteca requer o usu de dicionários e listas, por isso foi armazenado em um dicioário
 test = [[gui.Text("Hello World!!!")],
         [gui.Text("=*"*20)],
         [gui.Text("É muito dahora isso ;-;")],
