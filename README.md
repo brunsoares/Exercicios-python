@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/55892411/161663896-5a6e8614-5345-4747-819f-448bb9e247db.png" alt="python-course" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/55892411/161877349-4a6fac43-9b4b-4f1b-95e7-15bcf26f39b9.png" alt="python-course" width="100%" height="350px"/>
 </div>
 <br/>
 <div align="center">
